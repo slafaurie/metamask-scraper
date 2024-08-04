@@ -1,2 +1,6 @@
 requests
-duckdb
+polars
+python-dotenv
+tqdm
+google-cloud-bigquery
+pyarrow
